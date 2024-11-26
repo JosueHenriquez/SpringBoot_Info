@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/3cb371ad-d254-4d05-96ea-3433dbcc5307)
 	7. Haz click en el botón variables de entorno
  ![image](https://github.com/user-attachments/assets/d85b778d-71c4-4ebf-969e-007bdbfdeca1)
-
+	8. Observa la sección Variables del sistema y haz click en el botón Nueva
 
 # CREAR PROYECTO DE SPRING BOOT
 ## Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
