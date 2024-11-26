@@ -17,6 +17,6 @@
 # A continuación explico que apartados se utilizarán y para que servirán:
 1. Carpeta src -> esta contiene dos subcarpetas (main y test)
 2. En la carpeta main estarán todos los archivos que se utilizarán en el proyecto, esto puede incluir que internamente main reorganice los archivos en mas carpetas.
-	2.1. main contendrá todo el código de nuestro proyecto
-   	2.2 resources contendrá todos aquellos elementos públicos a los que el usuario podrá acceder, por ej: videos, fotos, imagenes, archivos.html, entre otros.
-3. Archivo pom.xml -> en el se contiene la estructura principal del proyecto, este contiene la configuración del proyecto, todas las dependencias, además, hace referencia respecto a la configuración del proeycto cuando se haga la compilación.
+3. main contendrá todo el código de nuestro proyecto
+4. resources contendrá todos aquellos elementos públicos a los que el usuario podrá acceder, por ej: videos, fotos, imagenes, archivos.html, entre otros.
+5. Archivo pom.xml -> en el se contiene la estructura principal del proyecto, este contiene la configuración del proyecto, todas las dependencias, además, hace referencia respecto a la configuración del proeycto cuando se haga la compilación.
