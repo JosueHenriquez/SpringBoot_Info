@@ -2,6 +2,9 @@
 	1. IntelliJ Idea Community
 	2. Java Development Kit: JDK17
 	3. Instalación de Maven
+ 	4. Descargar e instalar maven: https://maven.apache.org/download.cgi la versión compilada
+  ![image](https://github.com/user-attachments/assets/837eb2f7-edbf-492f-8108-2711900008df)
+
 
 # CREAR PROYECTO DE SPRING BOOT
 ## Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
