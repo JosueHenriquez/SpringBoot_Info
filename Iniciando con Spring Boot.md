@@ -7,10 +7,8 @@
 
   #CONFIGURACIÓN DEL ENTORNO
   	5. Descomprimir el archivo descargado y guardarlo en disco local C: y renombra la carpeta a maven
-   	6. Dirigete a la siguiente ruta: Este equipo -> click derecho en propiedades -> Opciones avanzadas del sistema
+   	6. Dirigete a la siguiente ruta: Este equipo -> click derecho en propiedades -> Configuración avanzada del sistema
 ![image](https://github.com/user-attachments/assets/3cb371ad-d254-4d05-96ea-3433dbcc5307)
-
-
 
 # CREAR PROYECTO DE SPRING BOOT
 ## Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
