@@ -8,7 +8,7 @@
   # CONFIGURACIÓN DEL ENTORNO
   # Observa el video desde el minuto 7:47 hasta el minuto 20:56
 https://youtu.be/7vHzVN0EiQc?si=r2_Og3SNycULqygw&t=468
-[![](https://markdown-videos.data.dev/youtube/7vHzVN0EiQc&t)](https://www.youtube.com/watch?v=7vHzVN0EiQc&t)
+[![](https://markdown-videos.deta.dev/youtube/7vHzVN0EiQc&t)](https://www.youtube.com/watch?v=7vHzVN0EiQc&t)
 # CREAR PROYECTO DE SPRING BOOT
 ## Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
 	1. Project: Maven
