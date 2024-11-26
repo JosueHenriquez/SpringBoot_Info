@@ -5,7 +5,7 @@
  	4. Descargar e instalar maven: https://maven.apache.org/download.cgi/ la versión compilada (Binary zip Archive)
   ![image](https://github.com/user-attachments/assets/837eb2f7-edbf-492f-8108-2711900008df)
 
-  #CONFIGURACIÓN DEL ENTORNO
+  # CONFIGURACIÓN DEL ENTORNO
   	5. Descomprimir el archivo descargado y guardarlo en disco local C: y renombra la carpeta a maven
    	6. Dirigete a la siguiente ruta: Este equipo -> click derecho en propiedades -> Configuración avanzada del sistema
 ![image](https://github.com/user-attachments/assets/3cb371ad-d254-4d05-96ea-3433dbcc5307)
