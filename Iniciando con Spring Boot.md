@@ -15,7 +15,10 @@
 ![image](https://github.com/user-attachments/assets/03860e77-907a-445f-8f2a-4d241c0ca8ee)
 
 # A continuación te explico para que sirve cada apartado:
-
+	• SpringBoot_Info -> archivo del repositorio de Git
+ 	• Carpeta src -> esta contiene dos subcarpetas (main y test)
+  		• En la carpeta main estarán todos los archivos que se utilizarán en el proyecto, esto puede incluir que internamente main reorganice los archivos.
+    		
 
 
  
