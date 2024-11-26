@@ -1,6 +1,10 @@
-Software necesario para crear proyecto con Spring Boot
-CREAR PROYECTO DE SPRING BOOT
-Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
+**bold** Software necesario para trabajar con Spring Boot
+	1. IntelliJ Idea Community
+	2. Java Development Kit: JDK17
+	3. Instalación de Maven
+
+# CREAR PROYECTO DE SPRING BOOT
+## Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
 	1. Project: Maven
 	2. Language: Java
 	3. Spring Boot: 3.4.0
