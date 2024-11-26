@@ -15,8 +15,8 @@
 ![image](https://github.com/user-attachments/assets/03860e77-907a-445f-8f2a-4d241c0ca8ee)
 
 # A continuación explico que apartados se utilizarán y para que servirán:
-	• Carpeta src -> esta contiene dos subcarpetas (main y test)
-  		• En la carpeta main estarán todos los archivos que se utilizarán en el proyecto, esto puede incluir que internamente main reorganice los archivos en mas carpetas.
-    			• main contendrá todo el código de nuestro proyecto
-			• resources contendrá todos aquellos elementos públicos a los que el usuario podrá acceder, por ej: videos, fotos, imagenes, archivos.html, entre otros.
-    	• Archivo pom.xml -> en el se contiene la estructura principal del proyecto, este contiene la configuración del proyecto, todas las dependencias, además, hace referencia respecto a la configuración del proeycto cuando se haga la compilación.
+• Carpeta src -> esta contiene dos subcarpetas (main y test)
+	• En la carpeta main estarán todos los archivos que se utilizarán en el proyecto, esto puede incluir que internamente main reorganice los archivos en mas carpetas.
+		• main contendrá todo el código de nuestro proyecto
+		• resources contendrá todos aquellos elementos públicos a los que el usuario podrá acceder, por ej: videos, fotos, imagenes, archivos.html, entre otros.
+• Archivo pom.xml -> en el se contiene la estructura principal del proyecto, este contiene la configuración del proyecto, todas las dependencias, además, hace referencia respecto a la configuración del proeycto cuando se haga la compilación.
