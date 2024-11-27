@@ -1,5 +1,6 @@
 # SOFTWARE NECESARIO PARA TRABAJAR CON SPRING BOOT
 	1. IntelliJ Idea Community
+ https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 	2. Java Development Kit: JDK17 
  [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.exe)
  
