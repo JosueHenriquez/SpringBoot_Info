@@ -6,4 +6,5 @@
 ![image](https://github.com/user-attachments/assets/cd340db7-0129-4fd3-a21f-055790319230)
   4. Posteriormente ejecuta tu página web, para ello deberás hacerlo ejecutando spring-boot:run, lo encontrarás al lado derecho de la pantalla maven/plugins/spring-boot:run
 ![image](https://github.com/user-attachments/assets/c0e827a2-f92f-4c98-a23a-bea8a7af946b)
-
+  5. Observa que se abrirá una terminal donde se descargarán las librerias indicadas en el pom.xml, este proceso al ser primera vez que se ejecuta podría tardar un poco mas de lo normal, y en el recuadro puedes observar que la M de maven tiene un puntito verde, esto indica que el servidor se está ejecutando.
+![image](https://github.com/user-attachments/assets/7f53db4f-7458-4a3b-8d9c-300cf05177df)
