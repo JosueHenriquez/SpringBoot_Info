@@ -12,4 +12,5 @@
 
 # ¿Qué hacer si al ejecutar el comando spring-boot:run este no levanta los servicios?
   1. Verifica que estas en la versión correcta de Java, es decir, que la versión del JDK sea el correcto para el proyecto, para ello haz click en la terminal de IntelliJ y escribe Java -version y aparecerá la versión de Java que tienes instalado.
-![image](https://github.com/user-attachments/assets/bc892e70-f883-4eba-9949-b5b47a7fd0de)
+![image](https://github.com/user-attachments/assets/90d96f93-a2fa-45dd-a3a3-0f3cf43682c3)
+
