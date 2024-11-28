@@ -1,4 +1,4 @@
-# Mi primera página utilizando el Framework con Spring Boot
+# Mi primera página utilizando el Framework de Spring Boot
 ## Entrar a la dirección: https://start.spring.io/ para crear el proyecto de Spring Boot
   1. Nombre del proyecto: practica1_carnetEstudiantil por ej: practica1_20240014
   2. En la carpeta src/resources/static crea un nuevo archivo el cual le pondremos por nombre index.html
