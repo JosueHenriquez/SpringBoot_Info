@@ -19,4 +19,4 @@
 2. En la carpeta main estarán todos los archivos que se utilizarán en el proyecto, esto puede incluir que internamente main reorganice los archivos en mas carpetas.
 3. main contendrá todo el código de nuestro proyecto
 4. resources contendrá todos aquellos elementos públicos a los que el usuario podrá acceder, por ej: videos, fotos, imagenes, archivos.html, entre otros.
-5. Archivo pom.xml -> en el se contiene la estructura principal del proyecto, este contiene la configuración del proyecto, todas las dependencias, además, hace referencia respecto a la configuración del proeycto cuando se haga la compilación. # Cuando se quiera utilizar una nueva librería se deberá definir en el archivo pom.xml.
+5. Archivo pom.xml -> en el se contiene la estructura principal del proyecto, este contiene la configuración del proyecto, todas las dependencias, además, hace referencia respecto a la configuración del proeycto cuando se haga la compilación. Cuando se quiera utilizar una nueva librería se deberá definir en el archivo pom.xml.
