@@ -7,7 +7,8 @@
 
 ## Los cambios hechos no se observan
 
-  1. Dirigete a la opción de maven y ejecuta clean
+  1. Dirigete a la opción de maven y ejecuta clean.
+
 ![image](https://github.com/user-attachments/assets/d20ff8af-c48b-4b18-847f-4b3c875b8478)
 
-  2. Vuelve a ejecutar spring-boot:run y actualiza con F5 la página.
+  3. Vuelve a ejecutar spring-boot:run y actualiza con F5 la página.
