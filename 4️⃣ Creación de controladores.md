@@ -14,7 +14,8 @@ Porque los controladores sirven para manejar las URL's, así que mediante una di
   3. Con el código generado por defecto para la clase UsuarioController, se está indicando que la clase será un controlador pero no basta solo con poner el nombre sino que hay que realizar una anotación para indicarle cual será la función de dicha clase, para ello colocaremos @RestController el cual de forma automática importará una librería (Checa que se haya importado).
 ![image](https://github.com/user-attachments/assets/b76dae7e-bb3b-4620-a859-c7c185a8ba5d)
 
-  4. Crea una función para indicar que quieres hacer, así mismo con una anotación indica que URL crearás para ejecutar dicha función (observa la linea 9, 10 y 11)
+  4. Crea una función para indicar que quieres hacer, así mismo con una anotación indica que URL crearás para ejecutar dicha función (observa la linea 9, 10 y 11).
+     
 ![image](https://github.com/user-attachments/assets/3da7341d-0fa5-4685-a05d-a079ebb8ed51)
 
 # Partes de una URL
