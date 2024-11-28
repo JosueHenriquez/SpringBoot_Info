@@ -23,4 +23,4 @@ Porque los controladores sirven para manejar las URL's, así que mediante una di
 ![image](https://github.com/user-attachments/assets/bc7556f6-1c85-4bdf-9728-4a6d470c9b40)
 
 # Plantilla para practicar la creación de URL y la invocación de funciones
-https://github.com/startbootstrap/startbootstrap-sb-admin-2/archive/gh-pages.zip
+<a href="https://github.com/startbootstrap/startbootstrap-sb-admin-2/archive/gh-pages.zip">Descargar plantilla</a>
