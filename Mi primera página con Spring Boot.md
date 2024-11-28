@@ -9,6 +9,7 @@
   5. Observa que se abrirá una terminal donde se descargarán las librerias indicadas en el pom.xml, este proceso al ser primera vez que se ejecuta podría tardar un poco mas de lo normal, y en el recuadro puedes observar que la M de maven tiene un puntito verde, esto indica que el servidor se está ejecutando y en el servidor de java TOMCAT se está ejecutando en el puerto 8080.
 ![image](https://github.com/user-attachments/assets/7f53db4f-7458-4a3b-8d9c-300cf05177df)
   6. Dirigite al navegador de tu preferencia y escribe en la barra de direcciones: localhost:8080 y observa que se mostrará la página web que haz creado.
+     
 ![image](https://github.com/user-attachments/assets/126968b4-42a8-43ae-9059-adab8e8da69a)
 
 
