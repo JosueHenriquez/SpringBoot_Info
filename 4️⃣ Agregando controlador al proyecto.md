@@ -7,3 +7,5 @@
   2. Posteriormente crea una clase dentro de la nueva carpeta, la clase deberá llamarse: UsuarioController
   
 ![image](https://github.com/user-attachments/assets/f1cc4d1d-0a16-43fa-8987-a603d437d2f9)
+
+## ¿Porque estamos creando controladores? porque los controladores sirven para manejar las URL's, así que mediante una dirección le indicaremos a nuestro programa que archivo se desea ejecutar.
