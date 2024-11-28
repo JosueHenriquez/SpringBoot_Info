@@ -9,3 +9,7 @@
   5. Observa que se abrirá una terminal donde se descargarán las librerias indicadas en el pom.xml, este proceso al ser primera vez que se ejecuta podría tardar un poco mas de lo normal, y en el recuadro puedes observar que la M de maven tiene un puntito verde, esto indica que el servidor se está ejecutando y en el servidor de java TOMCAT se está ejecutando en el puerto 8080.
 ![image](https://github.com/user-attachments/assets/7f53db4f-7458-4a3b-8d9c-300cf05177df)
   6. Dirigite al navegador de tu preferencia y escribe en la barra de direcciones: localhost:8080 y observa que se mostrará la página web que haz creado.
+
+# ¿Qué hacer si al ejecutar el comando spring-boot:run este no levanta los servicios?
+  1. Verifica que estas en la versión correcta de Java, es decir, que la versión del JDK sea el correcto para el proyecto, para ello haz click en la terminal de IntelliJ y escribe Java -version y aparecerá la versión de Java que tienes instalado.
+![image](https://github.com/user-attachments/assets/bc892e70-f883-4eba-9949-b5b47a7fd0de)
