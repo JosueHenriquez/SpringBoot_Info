@@ -1,0 +1,16 @@
+# Retoma la práctica del archivo 3 https://github.com/JosueHenriquez/SpringBoot_Info/blob/main/3%EF%B8%8F%E2%83%A3%20Mi%20primera%20p%C3%A1gina%20con%20Spring%20Boot.md
+  
+  1. Crea en la carpeta java/Curso.Java.Curso la carpeta Controller.
+
+![image](https://github.com/user-attachments/assets/e336ee3d-b008-440b-bb07-c04d948bd758)
+   
+  2. Posteriormente crea una clase dentro de la nueva carpeta, la clase deberá llamarse: UsuarioController
+  
+![image](https://github.com/user-attachments/assets/f1cc4d1d-0a16-43fa-8987-a603d437d2f9)
+
+## ¿Porque estamos creando controladores? 
+Porque los controladores sirven para manejar las URL's, así que mediante una dirección le indicaremos a nuestro programa que archivo se desea ejecutar.
+
+  3. Con el código generado por defecto para la clase UsuarioController, se está indicando que la clase será un controlador pero no basta solo con poner el nombre sino que hay que realizar una anotación para indicarle cual será la función de dicha clase, para ello colocaremos @RestController el cual de forma automática importará una librería (Checa que se haya importado).
+![image](https://github.com/user-attachments/assets/b76dae7e-bb3b-4620-a859-c7c185a8ba5d)
+
