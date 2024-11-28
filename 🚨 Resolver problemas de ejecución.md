@@ -11,4 +11,4 @@
 
 ![image](https://github.com/user-attachments/assets/d20ff8af-c48b-4b18-847f-4b3c875b8478)
 
-  3. Vuelve a ejecutar spring-boot:run y actualiza con F5 la página.
+  2. Vuelve a ejecutar spring-boot:run y actualiza con F5 la página.
