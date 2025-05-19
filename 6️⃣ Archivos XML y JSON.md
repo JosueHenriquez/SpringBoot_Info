@@ -5,7 +5,7 @@ Una característica clave de XML es que normalmente puede ser leído tanto por h
 
 Un archivo XML es principalmente un formato de archivo que almacena información en forma de texto . Posteriormente estos pueden ser leídos y procesados por programas. Los archivos XML le brindan la posibilidad de almacenar una variedad de datos, incluidos archivos de configuración, contenido de bases de datos, contenido de páginas web, datos científicos y mucho más.
 
-# Estructura y estructura de archivos XML
+## Estructura y estructura de archivos XML
 Los archivos XML siempre se basan en el mismo esquema. Todos los datos contenidos se insertan dentro de las llamadas "etiquetas". Para ello, deberás utilizar un día de apertura y un día de cierre, que simplemente definirás como tal mediante un corchete angular. El día de cierre también está marcado por una barra diagonal, que se coloca directamente después del primer corchete angular.
 
 La jerarquía del documento XML sigue siempre el mismo principio. Todo archivo XML comienza siempre con la llamada declaración XML , que se encuentra en la primera línea del documento. El propósito de esto es clasificar el archivo como un archivo XML para otros programas. La información y atributos como la versión de XML o el juego de caracteres utilizado se insertan entre corchetes angulares. Por ejemplo, una declaración XML común podría verse así:
