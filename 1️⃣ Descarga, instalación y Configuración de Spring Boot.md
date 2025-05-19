@@ -4,6 +4,8 @@
 	
  	2. Java Development Kit: JDK17 
  [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.exe)
+ * Comprueba que el JDK se haya instalado correctamente, para ello puedes abrir la consola de Windows (Windows + R) y escribe CMD.
+ * Escribe en la consola java -version y deberá aparecer la instalación del JDK
  
 	3. Descargar maven: https://maven.apache.org/download.cgi/ la versión compilada (Binary zip Archive)
 https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip
