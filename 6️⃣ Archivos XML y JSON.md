@@ -13,5 +13,6 @@ La jerarquía del documento XML sigue siempre el mismo principio. Todo archivo X
 <?xml version ="1.0" encoding = "UTF-8"?>
 
 A la declaración XML le sigue el elemento raíz , en el que se subdividen todos los demás elementos (etiquetas) e información. Si volvemos a tomar el ejemplo de la lista de clientes, el elemento raíz podría llamarse “<lista de clientes>”. Luego podría agregar cualquier otro elemento debajo, como <cliente>, <número de cliente> o <dirección> y estructurarlos en una estructura jerárquica. En un programa de edición de texto, dicha estructura podría verse así:
+
 ![image](https://github.com/user-attachments/assets/ad41a9d8-b79e-4681-9bd0-9b14427d00cb)
 
