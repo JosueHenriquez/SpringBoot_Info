@@ -25,5 +25,8 @@ https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip
 # CONFIGURACIÓN DEL ENTORNO
 * Configura las variables de entorno: abre el menu de inicio y escribe "Configurar variables de entorno" y selecciona la opción:
 ![image](https://github.com/user-attachments/assets/678fc833-0731-4a5d-bd78-af5f70fc0eb4)
+* Una vez presiones la opción: saldra una ventana en la podras acceder a las variables de entorno.
+![image](https://github.com/user-attachments/assets/277e519a-bdd9-405a-81d9-eb59ce8e0b26)
+* Crea una variable en el segmento de Variables del sistema.
 
 
