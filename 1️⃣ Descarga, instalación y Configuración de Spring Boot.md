@@ -7,7 +7,7 @@
  [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.exe)
  * Comprueba que el JDK se haya instalado correctamente, para ello puedes abrir la consola de Windows (Windows + R) y escribe CMD.
  * Escribe en la consola java -version y deberá aparecer la instalación del JDK.
- * ![image](https://github.com/user-attachments/assets/52bf89ed-762f-4df6-8314-cb851af31aeb)
+![image](https://github.com/user-attachments/assets/52bf89ed-762f-4df6-8314-cb851af31aeb)
 
  
 # 3. Descargar e instalación de maven
