@@ -3,7 +3,7 @@ Los métodos HTTP son acciones que usamos para interactuar con servidores web (c
 
 ## 🔹 Los 5 Métodos Más Importantes:
 
-** GET ➝ "Obtener datos"*
+*GET ➝ "Obtener datos"*
 ¿Qué hace? Solicita información (como cargar una página web o ver fotos).
 Ejemplo:
 GET /productos → El servidor devuelve una lista de productos.  
