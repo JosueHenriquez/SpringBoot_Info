@@ -16,5 +16,5 @@ A la declaración XML le sigue el elemento raíz , en el que se subdividen todos
 
 ![image](https://github.com/user-attachments/assets/ad41a9d8-b79e-4681-9bd0-9b14427d00cb)
 
-Explicación de archivos XML: https://youtu.be/UfOmGwJ4dKM?si=HKuBI_OJMedHVJAj
+[Enlace 1]Explicación de archivos XML: https://youtu.be/UfOmGwJ4dKM?si=HKuBI_OJMedHVJAj
 
