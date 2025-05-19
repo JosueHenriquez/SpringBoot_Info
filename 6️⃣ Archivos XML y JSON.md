@@ -18,3 +18,17 @@ A la declaración XML le sigue el elemento raíz , en el que se subdividen todos
 
 * [YouTube](Explicación de archivos XML: https://youtu.be/UfOmGwJ4dKM?si=HKuBI_OJMedHVJAj)
 
+# Archivos JSON
+Los archivos JSON (JavaScript Object Notation) son un formato de archivo ligero y muy utilizado para el intercambio de datos. Su estructura es fácil de leer tanto para humanos como para máquinas, y se basa en la notación de objetos de JavaScript, aunque es independiente de cualquier lenguaje de programación.
+
+## Características principales:
+* Formato de texto legible: Usa sintaxis basada en pares clave-valor y listas ordenadas.
+* Extensión de archivo: .json.
+* Estructura común:
+* ![image](https://github.com/user-attachments/assets/c433e793-0b54-4cfc-be21-61428b8c2f31)
+
+## Usos comunes:
+* Intercambio de datos entre servidor y cliente (APIs web, como REST).
+* Configuraciones de aplicaciones (ej: package.json en Node.js).
+* Almacenamiento simple de datos estructurados.
+
