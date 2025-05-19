@@ -2,14 +2,15 @@
 	1. IntelliJ Idea Community.
  <u>https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC</u>
 	
- 	# 2. Java Development Kit: JDK17 
+ # Instalación de JDK
+ 2. Accede al enlace para descargar el JDK 17.
  [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://download.oracle.com/java/17/archive/jdk-17.0.12_windows-x64_bin.exe)
  * Comprueba que el JDK se haya instalado correctamente, para ello puedes abrir la consola de Windows (Windows + R) y escribe CMD.
  * Escribe en la consola java -version y deberá aparecer la instalación del JDK.
  * ![image](https://github.com/user-attachments/assets/52bf89ed-762f-4df6-8314-cb851af31aeb)
 
  
-	# 3. Descargar maven: https://maven.apache.org/download.cgi/ la versión compilada (Binary zip Archive)
+# 3. Descargar maven: https://maven.apache.org/download.cgi/ la versión compilada (Binary zip Archive)
 https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip
 
 ## Configurar variables de entorno:
