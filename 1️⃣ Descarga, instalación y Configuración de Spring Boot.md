@@ -22,8 +22,8 @@ https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip
 ![image](https://github.com/user-attachments/assets/8f1b8e47-dc74-40db-b9e6-435838011bfa)
 
 
-  # CONFIGURACIÓN DEL ENTORNO
-  	4. Observa el video desde el minuto 7:47 hasta el minuto 20:56 para que comprendas que hacer con cada uno de los programas y archivos descargados.
-  
-https://youtu.be/7vHzVN0EiQc?si=r2_Og3SNycULqygw&t=468
+# CONFIGURACIÓN DEL ENTORNO
+* Configura las variables de entorno: abre el menu de inicio y escribe "Configurar variables de entorno" y selecciona la opción:
+![image](https://github.com/user-attachments/assets/678fc833-0731-4a5d-bd78-af5f70fc0eb4)
+
 
