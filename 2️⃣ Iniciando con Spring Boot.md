@@ -4,7 +4,7 @@
 	2. Language: Java
 	3. Spring Boot: 3.4.0
 	4. Project Metadata: Definir el nombre del proyecto
-	5. Packaging: Jar
+	5. Packaging: War
 	6. Java: JDK 17
 	7. Agregar dependencias: Spring Web
  	8. Haz click en Generate, y se descargará un proyecto que guardarás en un ruta de tu preferencia. 
