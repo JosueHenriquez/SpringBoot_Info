@@ -8,8 +8,8 @@
 	3. Descargar maven: https://maven.apache.org/download.cgi/ la versión compilada (Binary zip Archive)
 https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip
 
-##Configurar variables de entorno:
-*MAVEN
+## Configurar variables de entorno:
+* MAVEN
 1. El archivo descargado anteriormente, descomprimelo.
 2. Renombra la carpeta y ponle el maven (todo en minuscula).
 3. Traslada la carpeta renombrada a la raiz del disco local C:
