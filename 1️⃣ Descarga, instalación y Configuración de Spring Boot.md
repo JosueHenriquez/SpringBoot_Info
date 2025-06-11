@@ -11,8 +11,7 @@
 
  
 # 3. Descargar e instalación de maven
-https://maven.apache.org/download.cgi/ la versión compilada (Binary zip Archive)
-https://dlcdn.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip
+https://dlcdn.apache.org/maven/maven-3/3.9.10/binaries/apache-maven-3.9.10-bin.zip
 
 ## Configurar variables de entorno:
 * MAVEN
