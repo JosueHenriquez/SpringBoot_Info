@@ -1,6 +1,6 @@
 # CREA TU PROPIO CONTROLADOR
 ## Crea una base de datos en Oracle con las siguientes caracteristicas:
-* Crea un usuario con nombre: Nombre_practica
+* Crea un usuario con nombre: Nombre_practica, por ej: JosueGuinea_practica
 * Contraseña del usuario: 12345
 ## Otorga los privilegios: 
 * GRANT CONNECT TO [usuario]
