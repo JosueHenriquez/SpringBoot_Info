@@ -9,7 +9,10 @@
 ## Crea una conexión
 * Ponle por nombre: TestConnection_Nombre
 * Usa el usuario creado
- 
+## Crea una pequeña base de datos
+* Crea una tabla llamada tbUsuario y consigo agrega tres campos (idUsuario INT PRIMARY KEY, nombre VARCHAR2(35), apellido VARCHAR2(35))
+* Agrega la información de tres compañeros.
+  
   1. Crea en la carpeta java/Curso.Java.Curso la carpeta Controller.
 
 ![image](https://github.com/user-attachments/assets/e336ee3d-b008-440b-bb07-c04d948bd758)
