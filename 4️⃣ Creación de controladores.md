@@ -12,6 +12,9 @@
 ## Crea una pequeña base de datos
 * Crea una tabla llamada tbUsuario y consigo agrega tres campos (idUsuario INT PRIMARY KEY, nombre VARCHAR2(35), apellido VARCHAR2(35))
 * Agrega la información de tres compañeros.
+
+## Crea un proyecto usando el siguiente enlace:
+https://start.spring.io/
   
   1. Crea en la carpeta java/Curso.Java.Curso la carpeta Controller.
 
