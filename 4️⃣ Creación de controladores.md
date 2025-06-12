@@ -1,6 +1,15 @@
-# Retoma la práctica del archivo 3 
-<a href="https://github.com/JosueHenriquez/SpringBoot_Info/blob/main/3%EF%B8%8F%E2%83%A3%20Mi%20primera%20p%C3%A1gina%20con%20Spring%20Boot.md">Ir al archivo</a>
-  
+# CREA TU PROPIO CONTROLADOR
+## Crea una base de datos en Oracle con las siguientes caracteristicas:
+* Crea un usuario con nombre: Nombre_practica
+* Contraseña del usuario: 12345
+## Otorga los privilegios: 
+* GRANT CONNECT TO [usuario]
+* GRANT ALL PRIVILEGES TO [usuario]
+* GRANT RESOURCE TO [usuario]
+## Crea una conexión
+* Ponle por nombre: TestConnection_Nombre
+* Usa el usuario creado
+ 
   1. Crea en la carpeta java/Curso.Java.Curso la carpeta Controller.
 
 ![image](https://github.com/user-attachments/assets/e336ee3d-b008-440b-bb07-c04d948bd758)
