@@ -10,3 +10,13 @@
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
+
+<!--Dependecia para agregar anotaciones como @Getter y @Setter-->
+<!--Instala posteriormente el plugin de Lombok para poder utilizar los metodos
+Getter y Setter: File > Settings > Plugins-->
+<dependency>
+	<groupId>org.projectlombok</groupId>
+	<artifactId>lombok</artifactId>
+	<version>1.18.36</version>
+	<scope>provided</scope>
+</dependency>
