@@ -27,3 +27,12 @@ Getter y Setter: File > Settings > Plugins-->
 	<artifactId>ojdbc11</artifactId>
 	<scope>runtime</scope>
 </dependency>
+
+/**
+ * Cuando repository no se agrega se obtendrá el siguiente error:
+ * The injection point has the following annotations:
+ * 	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+ * Action:
+ * Consider defining a bean of type 'PrimeraAPI_JosueGuinea1A.DevJosueGuinea.Models.Repository.InterfaceUsuario' in your configuration.
+ */
+@Repository
