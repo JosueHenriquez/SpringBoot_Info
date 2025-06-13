@@ -1,5 +1,5 @@
 # Catálogo de dependecias
-# Dependencia jakarta: sirve para utilizar anotaciones de transacción con la base de datos
+## Dependencia jakarta: sirve para utilizar anotaciones de transacción con la base de datos
 <dependency>
 	<groupId>jakarta.transaction</groupId>
 	<artifactId>jakarta.transaction-api</artifactId>
