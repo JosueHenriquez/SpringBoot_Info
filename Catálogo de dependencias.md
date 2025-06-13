@@ -20,3 +20,10 @@ Getter y Setter: File > Settings > Plugins-->
 	<version>1.18.36</version>
 	<scope>provided</scope>
 </dependency>
+
+# Dependencia para cargar Driver de Oracle
+<dependency>
+	<groupId>com.oracle.database.jdbc</groupId>
+	<artifactId>ojdbc11</artifactId>
+	<scope>runtime</scope>
+</dependency>
