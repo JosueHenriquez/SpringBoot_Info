@@ -43,9 +43,3 @@ Getter y Setter: File > Settings > Plugins-->
 	<artifactId>jakarta.xml.bind-api</artifactId>
 	<version>3.0.0</version>
 </dependency>
-
-<dependency>
-     <groupId>jakarta.xml.bind</groupId>
-     <artifactId>jakarta.xml.bind-api</artifactId>
-     <version>3.0.0</version>
-</dependency>
