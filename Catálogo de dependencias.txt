@@ -6,6 +6,7 @@ Dependencia jakarta: sirve para utilizar anotaciones de transacción con la base
 	<version>2.0.1</version>
 </dependency>
 
+<!--Habilita el uso de la anotación @Entity y la extensión de la interface JpaRepository-->
 <dependency>
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -21,7 +22,7 @@ Getter y Setter: File > Settings > Plugins-->
 	<scope>provided</scope>
 </dependency>
 
-# Dependencia para cargar Driver de Oracle
+<!--Dependencia para cargar Driver de Oracle-->
 <dependency>
 	<groupId>com.oracle.database.jdbc</groupId>
 	<artifactId>ojdbc11</artifactId>
