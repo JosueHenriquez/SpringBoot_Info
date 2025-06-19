@@ -37,3 +37,15 @@ Getter y Setter: File > Settings > Plugins-->
  * Consider defining a bean of type 'PrimeraAPI_JosueGuinea1A.DevJosueGuinea.Models.Repository.InterfaceUsuario' in your configuration.
  */
 @Repository
+
+<dependency>
+	<groupId>jakarta.xml.bind</groupId>
+	<artifactId>jakarta.xml.bind-api</artifactId>
+	<version>3.0.0</version>
+</dependency>
+
+<dependency>
+     <groupId>jakarta.xml.bind</groupId>
+     <artifactId>jakarta.xml.bind-api</artifactId>
+     <version>3.0.0</version>
+</dependency>
