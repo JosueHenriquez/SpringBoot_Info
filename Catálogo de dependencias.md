@@ -1,4 +1,6 @@
 Catálogo de dependecias
+
+Dependecia 01:
 Dependencia jakarta: sirve para utilizar anotaciones de transacción con la base de datos
 <dependency>
 	<groupId>jakarta.transaction</groupId>
@@ -6,6 +8,7 @@ Dependencia jakarta: sirve para utilizar anotaciones de transacción con la base
 	<version>2.0.1</version>
 </dependency>
 
+Dependecia 02:
 <!--Habilita el uso de la anotación @Entity y la extensión de la interface JpaRepository-->
 <dependency>
 	<groupId>org.springframework.boot</groupId>
