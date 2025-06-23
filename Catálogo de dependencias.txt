@@ -1,5 +1,5 @@
 Catálogo de dependecias
-"
+
 Dependecia 01:
 Dependencia jakarta: sirve para utilizar anotaciones de transacción con la base de datos
 <dependency>
@@ -58,4 +58,4 @@ Getter y Setter: File > Settings > Plugins-->
 	<groupId>io.github.cdimascio</groupId>
 	<artifactId>dotenv-java</artifactId>
 	<version>3.0.0</version>
-</dependency>"
+</dependency>
